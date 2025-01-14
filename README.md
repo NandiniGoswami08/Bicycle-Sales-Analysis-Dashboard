@@ -18,3 +18,8 @@ This project analyzes bicycle shop sales for 2021-2022, focusing on total sales 
 ### 5. Country Contributions:
 •	USA (16%) and Germany (12%) are the highest contributors to total sales.
 •	Canada (9%) and India (10%) show room
+## Project Objective
+This project is to analyze the bicycle shop's sales data from 2021-2022 to identify trends, customer behavior, and product performance. By leveraging interactive dashboards with slicers, the goal is to provide actionable insights for improving profitability, optimizing inventory, targeting key markets, and driving strategic growth.
+## Dasboard
+![bicycle image](https://github.com/user-attachments/assets/d973c3df-33cb-4bb6-833f-53e3144bb87b)
+
